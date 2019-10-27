@@ -8,3 +8,9 @@ I managed to get the spaceship to move left or right when button A or button B i
 
 Next, I tried to incoperate the alien into the code. I faced the same issue as coding the spaceship which i solve using similar methods excepts this time it will also randomly generate a x direction as it resets the y direction
 
+After solving these 2 hurdles, I combined the elements together to form the game.
+
+I managed to get them to work together but the functionality is not intended. I could not get the alien to move down on its own without freezing the button inputs. So, the alien only moves when the button is pressed which takes the fun out of it.
+
+### thonny videos
+
