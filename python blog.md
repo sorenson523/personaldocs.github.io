@@ -84,11 +84,17 @@ Solving the above issue, a while loop that breaks when the button is pressed was
 
 ### Thonny videos
 
+For those who want to know more about the IDE I used, Thonny IDE, I suggest that you watch this video - Thonny - a Python IDE for beginners. The 2 reasons why you should watch it is it covers the basic functionalities of both Thonny and Python. The video is also short, about 12 mins long, it allows users to quickly grasp the concepts and start coding right away.
 
+Link to the video - https://www.youtube.com/watch?v=lWaCl0WjNZI
+
+Another video I recommend is 
 
 ### Beginner python videos
 
+For those who are interested in learning Python, I highly recomend the video - Python Tutorial for Beginners [Full Course] 2019. This video covers everything on the key concepts of python from variables to more advance stuff like classes. It is good video if you want to pick up python. However, the video is more than 6 hours long so be prepared to spend some time on it.
 
+Link to the video - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 ### References
 
