@@ -88,8 +88,6 @@ For those who want to know more about the IDE I used, Thonny IDE, I suggest that
 
 Link to the video - https://www.youtube.com/watch?v=lWaCl0WjNZI
 
-Another video I recommend is 
-
 ### Beginner python videos
 
 For those who are interested in learning Python, I highly recomend the video - Python Tutorial for Beginners [Full Course] 2019. This video covers everything on the key concepts of python from variables to more advance stuff like classes. It is good video if you want to pick up python. However, the video is more than 6 hours long so be prepared to spend some time on it.
